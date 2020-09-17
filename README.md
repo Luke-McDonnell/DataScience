@@ -16,6 +16,6 @@ This a project relating to Algorithmic Data Science. The outline of the project 
 Research_methods.ipynb:
 This a project relating to Research methods for Data science. The outline of the project is explained in the image 'Research_methods_outline.jpg'.
 
-Monte Carlo Simulations:
-The R files 'Diss_q1.r', 'Diss_q2.r', 'Diss_q31.r', and 'Diss_g32.r' are answers to a project on Monte Carlo Simulations, 
+R files:
+The R files 'Diss_q1.r', 'Diss_q2.r', 'Diss_q31.r', and 'Diss_g32.r' are answers to a project regarding Monte Carlo Simulations, 
 the outline of the project is shown in the file 'MCproject20 (1).pdf'.
