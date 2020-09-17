@@ -1,5 +1,5 @@
 # DataScience
-A repository for Data Science work completed by Luke McDonnell. Here I will explain each file in this repository.
+A repository for Data Science work completed by Luke McDonnell. Below are some details about each file in this repository.
 
 Diss_Notebook.ipynb:
 This is the jupyter notebook file from my dissertation, which aimed to use the data from the National Childhood Development Study (Link below) to predict symptoms of
